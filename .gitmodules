@@ -1,0 +1,12 @@
+[submodule "puppet/modules/webapp"]
+	path = puppet/modules/webapp
+	url = git://github.com/uggedal/puppet-module-webapp.git
+[submodule "puppet/modules/python"]
+	path = puppet/modules/python
+	url = git://github.com/uggedal/puppet-module-python.git
+[submodule "puppet/modules/monit"]
+	path = puppet/modules/monit
+	url = git://github.com/uggedal/puppet-module-monit.git
+[submodule "puppet/modules/nginx"]
+	path = puppet/modules/nginx
+	url = git://github.com/uggedal/puppet-module-nginx.git
